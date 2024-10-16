@@ -1,0 +1,48 @@
+@use "./reset";
+body {
+    background-color: black;
+    color: white;
+}
+
+.wrapper {
+}
+
+.header {
+    a {
+        .logo {
+        }
+    }
+
+    .header-right {
+        div {
+            i {
+            }
+        }
+        a {
+            i {
+            }
+        }
+    }
+}
+
+.main-content {
+    form {
+        .form-group {
+            label {
+            }
+            input {
+            }
+            textarea {
+            }
+            button {
+            }
+        }
+    }
+
+    .text-container {
+        h1 {
+        }
+        p {
+        }
+    }
+}
